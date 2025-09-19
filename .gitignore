@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS and Linux system files
+.DS_Store
+*.swp
+
+# Python-specific logs and outputs
+*.log
+*.out
+*.bak
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.db
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+
+# Environment variables
+.env
+*.env
+
+# Optuna study logs or cache
+optuna.db
+optuna.log
+
+# Plot images or generated figures
+*.png
+*.jpg
+*.svg
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
